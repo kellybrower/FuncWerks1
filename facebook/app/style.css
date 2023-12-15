@@ -1,0 +1,21 @@
+.instagram-post {
+    border: 1px solid #dbdbdb;
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post-image {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.post-caption {
+    font-size: 14px;
+    color: #262626;
+    margin-top: 5px;
+}
+
